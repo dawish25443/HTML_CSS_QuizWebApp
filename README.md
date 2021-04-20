@@ -1,0 +1,2 @@
+# HTML_CSS_QuizWebApp
+this is a web based application which is developed using HTML, CSS, and Java Script. this purpose of this project is digitise the conduction of class tests to be done online. this web application is for academic purpose. there is a section where the lecturer/teacher and write questions and state the correct option which is encapsulated from the user/student.........Download and enjoy
